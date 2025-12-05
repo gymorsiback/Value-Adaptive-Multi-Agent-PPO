@@ -1,0 +1,5 @@
+metric,value,unit
+Avg Transmission Time,275.4538679649487,ms
+Avg Latency,1.0386318404328263,ms
+Avg Network Hops,1.0,hops
+Avg Bandwidth,999.2273631913436,Mbps
