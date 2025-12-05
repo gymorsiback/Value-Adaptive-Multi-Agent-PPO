@@ -1,0 +1,228 @@
+ModelID,Model,ModelType,ArenaScore,ServerID
+1,Gemini-2.5-Pro-Exp-03-25,1,1,4
+2,o3-2025-04-16,1,0.967,2
+3,ChatGPT-4o-latest (2025-03-26),1,0.952,5
+4,Grok-3-Preview-02-24,1,0.942,7
+5,GPT-4.5-Preview,1,0.936,16
+6,Gemini-2.5-Flash-Preview-04-17,1,0.928,19
+7,Gemini-2.0-Flash-Thinking-Exp-01-21,1,0.908,5
+8,Gemini-2.0-Pro-Exp-02-05,1,0.908,24
+9,DeepSeek-V3-0324,1,0.897,2
+10,GPT-4.1-2025-04-14,1,0.881,11
+11,DeepSeek-R1,1,0.873,15
+12,Gemini-2.0-Flash-001,1,0.867,7
+13,o4-mini-2025-04-16,1,0.863,19
+14,o1-2024-12-17,1,0.861,9
+15,Gemma-3-27B-it,1,0.848,5
+16,Qwen2.5-Max,1,0.845,13
+17,o1-preview,1,0.838,2
+18,o3-mini-high,1,0.822,11
+19,GPT-4.1-mini-2025-04-14,1,0.817,15
+20,DeepSeek-V3,1,0.811,7
+21,QwQ-32B,1,0.805,17
+22,Gemini-2.0-Flash-Lite,1,0.8,19
+23,GLM-4-Plus-0111,1,0.8,5
+24,Qwen-Plus-0125,1,0.798,20
+25,Command A (03-2025),1,0.791,2
+26,o3-mini,1,0.791,11
+27,Step-2-16K-Exp,1,0.791,15
+28,o1-mini,1,0.789,7
+29,Gemini-1.5-Pro-002,1,0.786,16
+30,Hunyuan-TurboS-20250226,1,0.786,19
+31,Claude 3.7 Sonnet (thinking-32k),1,0.784,5
+32,Llama-3.3-Nemotron-Super-49B-v1,1,0.777,24
+33,Hunyuan-Turbo-0110,1,0.775,2
+34,Claude 3.7 Sonnet,1,0.77,20
+35,Grok-2-08-13,1,0.764,9
+36,Yi-Lightning,1,0.763,7
+37,GPT-4o-2024-05-13,1,0.759,16
+38,Claude 3.5 Sonnet (20241022),1,0.756,19
+39,Qwen2.5-plus-1127,1,0.755,5
+40,Deepseek-v2.5-1210,1,0.75,22
+41,Athene-v2-Chat-72B,1,0.744,2
+42,GLM-4-Plus,1,0.742,11
+43,Hunyuan-Large-2025-02-10,1,0.739,25
+44,GPT-4o-mini-2024-07-18,1,0.739,27
+45,Gemini-1.5-Flash-002,1,0.738,27
+46,Llama-4-Maverick-17B-128E-Instruct,1,0.738,19
+47,GPT-4.1-nano-2025-04-14,1,0.738,5
+48,Meta-Llama-3.1-405B-Instruct-bf16,1,0.734,24
+49,Llama-3.1-Nemotron-70B-Instruct,1,0.734,2
+50,Claude 3.5 Sonnet (20240620),1,0.733,11
+51,Meta-Llama-3.1-405B-Instruct-fp8,1,0.731,30
+52,Gemini Advanced App (2024-05-14),1,0.731,7
+53,Grok-2-Mini-08-13,1,0.73,27
+54,GPT-4o-2024-08-06,1,0.728,19
+55,Qwen-Max-0919,1,0.725,5
+56,Hunyuan-Standard-2025-02-10,1,0.722,24
+57,Gemini-1.5-Pro-001,1,0.72,2
+58,Deepseek-v2.5,1,0.717,11
+59,Qwen2.5-72B-Instruct,1,0.716,9
+60,Llama-3.3-70B-Instruct,1,0.714,7
+61,GPT-4-Turbo-2024-04-09,1,0.714,16
+62,Mistral-Large-2407,1,0.706,19
+63,Athene-70B,1,0.705,8
+64,GPT-4-1106-preview,1,0.705,24
+65,Mistral-Large-2411,1,0.703,4
+66,Meta-Llama-3.1-70B-Instruct,1,0.702,20
+67,Claude 3 Opus,1,0.7,9
+68,GPT-4-0125-preview,1,0.697,7
+69,Amazon Nova Pro 1.0,1,0.695,16
+70,Llama-3.1-Tulu-3-70B,1,0.695,19
+71,Claude 3.5 Haiku (20241022),1,0.684,8
+72,Reka-Core-20240904,1,0.681,24
+73,Gemini-1.5-Flash-001,1,0.669,4
+74,Jamba-1.5-Large,1,0.661,20
+75,Gemma-2-27B-it,1,0.658,15
+76,Amazon Nova Lite 1.0,1,0.653,7
+77,Qwen2.5-Coder-32B-Instruct,1,0.653,16
+78,Mistral-Small-24B-Instruct-2501,1,0.653,19
+79,Gemma-2-9B-it-SimPO,1,0.652,8
+80,Command R+ (08-2024),1,0.65,24
+81,Gemini-1.5-Flash-8B-001,1,0.645,4
+82,Llama-3.1-Nemotron-51B-Instruct,1,0.644,20
+83,Aya-Expanse-32B,1,0.641,15
+84,Nemotron-4-340B-Instruct,1,0.641,7
+85,Llama-3-70B-Instruct,1,0.638,25
+86,GLM-4-0520,1,0.638,17
+87,Reka-Flash-20240904,1,0.634,30
+88,Phi-4,1,0.634,24
+89,Claude 3 Sonnet,1,0.628,4
+90,Amazon Nova Micro 1.0,1,0.623,20
+91,Gemma-2-9B-it,1,0.614,9
+92,Command R+ (04-2024),1,0.611,7
+93,Hunyuan-Standard-256K,1,0.609,25
+94,Qwen2-72B-Instruct,1,0.606,17
+95,GPT-4-0314,1,0.605,8
+96,Llama-3.1-Tulu-3-8B,1,0.603,24
+97,Ministral-8B-2410,1,0.598,4
+98,Aya-Expanse-8B,1,0.595,20
+99,Command R (08-2024),1,0.594,15
+100,Claude 3 Haiku,1,0.594,7
+101,DeepSeek-Coder-V2-Instruct,1,0.592,25
+102,Meta-Llama-3.1-8B-Instruct,1,0.589,17
+103,Jamba-1.5-Mini,1,0.589,8
+104,GPT-4-0613,1,0.569,24
+105,Qwen1.5-110B-Chat,1,0.566,4
+106,Yi-1.5-34B-Chat,1,0.559,20
+107,Mistral-Large-2402,1,0.559,15
+108,Reka-Flash-21B-online,1,0.558,7
+109,QwQ-32B-Preview,1,0.553,25
+110,Llama-3-8B-Instruct,1,0.552,17
+111,InternLM2.5-20B-chat,1,0.547,8
+112,Command R (04-2024),1,0.547,24
+113,Mistral Medium,1,0.545,2
+114,Mixtral-8x22b-Instruct-v0.1,1,0.545,11
+115,Qwen1.5-72B-Chat,1,0.544,15
+116,Reka-Flash-21B,1,0.544,7
+117,Gemma-2-2b-it,1,0.539,16
+118,Granite-3.1-8B-Instruct,1,0.536,17
+119,Gemini-1.0-Pro-001,1,0.519,8
+120,Zephyr-ORPO-141b-A35b-v0.1,1,0.513,24
+121,Qwen1.5-32B-Chat,1,0.509,2
+122,Phi-3-Medium-4k-Instruct,1,0.506,11
+123,Starling-LM-7B-beta,1,0.5,9
+124,Granite-3.1-2B-Instruct,1,0.5,7
+125,Mixtral-8x7B-Instruct-v0.1,1,0.492,16
+126,Gemini Pro,1,0.488,19
+127,Yi-34B-Chat,1,0.488,8
+128,Qwen1.5-14B-Chat,1,0.484,24
+129,WizardLM-70B-v1.0,1,0.48,2
+130,GPT-3.5-Turbo-0125,1,0.48,11
+131,Meta-Llama-3.2-3B-Instruct,1,0.475,9
+132,DBRX-Instruct-Preview,1,0.475,7
+133,Phi-3-Small-8k-Instruct,1,0.473,5
+134,Tulu-2-DPO-70B,1,0.469,19
+135,Granite-3.0-8B-Instruct,1,0.459,8
+136,Llama-2-70B-chat,1,0.459,24
+137,Vicuna-33B,1,0.456,4
+138,OpenChat-3.5-0106,1,0.456,11
+139,Snowflake Arctic Instruct,1,0.455,2
+140,Starling-LM-7B-alpha,1,0.452,7
+141,Nous-Hermes-2-Mixtral-8x7B-DPO,1,0.445,16
+142,Gemma-1.1-7B-it,1,0.445,19
+143,NV-Llama2-70B-SteerLM-Chat,1,0.439,8
+144,DeepSeek-LLM-67B-Chat,1,0.434,24
+145,OpenChat-3.5,1,0.433,4
+146,Granite-3.0-2B-Instruct,1,0.43,11
+147,OpenHermes-2.5-Mistral-7B,1,0.43,15
+148,Mistral-7B-Instruct-v0.2,1,0.427,7
+149,Phi-3-Mini-4K-Instruct-June-24,1,0.425,19
+150,Qwen1.5-7B-Chat,1,0.423,19
+151,GPT-3.5-Turbo-1106,1,0.42,8
+152,Phi-3-Mini-4k-Instruct,1,0.417,24
+153,Dolphin-2.2.1-Mistral-7B,1,0.413,4
+154,Llama-2-13b-chat,1,0.413,13
+155,SOLAR-10.7B-Instruct-v1.0,1,0.411,15
+156,WizardLM-13b-v1.2,1,0.406,7
+157,Meta-Llama-3.2-1B-Instruct,1,0.398,16
+158,Zephyr-7B-beta,1,0.397,9
+159,SmolLM2-1.7B-Instruct,1,0.388,8
+160,MPT-30B-chat,1,0.384,24
+161,CodeLlama-34B-instruct,1,0.381,4
+162,CodeLlama-70B-instruct,1,0.38,11
+163,Vicuna-13B,1,0.38,15
+164,Zephyr-7B-alpha,1,0.378,7
+165,Phi-3-Mini-128k-Instruct,1,0.372,16
+166,Gemma-7B-it,1,0.372,17
+167,Llama-2-7B-chat,1,0.372,8
+168,Qwen-14B-Chat,1,0.369,24
+169,falcon-180b-chat,1,0.367,20
+170,Guanaco-33B,1,0.366,11
+171,Gemma-1.1-2b-it,1,0.347,15
+172,StripedHyena-Nous-7B,1,0.341,7
+173,OLMo-7B-instruct,1,0.338,25
+174,Mistral-7B-Instruct-v0.1,1,0.327,19
+175,Vicuna-7B,1,0.322,8
+176,PaLM-Chat-Bison-001,1,0.319,24
+177,Gemma-2B-it,1,0.297,4
+178,Qwen1.5-4B-Chat,1,0.295,22
+179,Koala-13B,1,0.259,15
+180,ChatGLM3-6B,1,0.244,7
+181,GPT4All-13B-Snoozy,1,0.208,16
+182,MPT-7B-Chat,1,0.202,19
+183,ChatGLM2-6B,1,0.195,8
+184,RWKV-4-Raven-14B,1,0.192,27
+185,Alpaca-13B,1,0.159,4
+186,OpenAssistant-Pythia-12B,1,0.147,11
+187,ChatGLM-6B,1,0.125,11
+188,FastChat-T5-3B,1,0.108,7
+189,StableLM-Tuned-Alpha-7B,1,0.064,24
+190,Dolly-V2-12B,1,0.036,4
+191,LLaMA-13B,1,0,27
+192,DeepFloyd-IF-XL,2,0.865,1
+193,Realistic VisionSD,2,0.835,12
+194,Dreamlike Photoreal 2.0SD,2,0.83,3
+195,Stable Diffusion 2.1,2,0.828,14
+196,DeliberateSD,2,0.813,6
+197,MajicMix RealisticSD,2,0.775,6
+198,ChilloutMixSD,2,0.754,26
+199,OpenjourneySD,2,0.718,12
+200,Epic DiffusionSD,2,0.691,14
+201,Stable Diffusion 1.5,2,0.656,23
+202,Stable Diffusion 1.4,2,0.599,18
+203,DALL¡¤E mini,2,0.416,21
+204,Versatile Diffusion,2,0.41,6
+205,Latent Diffusion,2,0.131,23
+206,VQ Diffusion,2,0.103,29
+207,Realistic VisionSD,2,0.891,26
+208,DeepFloyd-IF-XL,2,0.871,23
+209,Dreamlike Photoreal 2.0SD,2,0.821,29
+210,DeliberateSD,2,0.812,29
+211,MajicMix RealisticSD,2,0.762,1
+212,ChilloutMixSD,2,0.658,1
+213,Stable Diffusion 1.4,2,0.624,29
+214,OpenjourneySD,2,0.595,3
+215,Stable Diffusion 1.5,2,0.594,6
+216,Stable Diffusion 2.1,2,0.576,6
+217,Epic DiffusionSD,2,0.574,12
+218,Versatile Diffusion,2,0.417,12
+219,DALL¡¤E mini,2,0.39,18
+220,Latent Diffusion,2,0.247,14
+221,VQ Diffusion,2,0.067,18
+222,VideoCrafter,3,0.417,10
+223,I2VGEN-XL,3,0.417,10
+224,SVD,3,0.615,10
+225,Pika,3,0.739,10
+226,Gen-2,3,0.835,28
+227,Ours,3,0.759,28
