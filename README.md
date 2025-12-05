@@ -2,7 +2,7 @@
 
 This repository contains the reference implementation of the Value-Adaptive Multi-Agent Proximal Policy Optimization framework, designed for collaborative Edge AI inference and GenAI-as-a-Service (GenAIaaS) orchestration.
 
-The framework addresses the challenges of stochastic latency spikes and complex microservice dependencies in distributed edge environments by introducing a value-adaptive mechanism and a Coordinated Advantage Function (CAF).
+The framework addresses the challenges of stochastic latency spikes and complex microservice dependencies in distributed edge environments by introducing a value-adaptive mechanism and a coordinated advantage function.
 
 ## System Architecture
 
@@ -49,5 +49,6 @@ python src/distributed_main.py --mode inference --model_path results/
 ## License
 
 This project is licensed under the MIT License.
+
 
 
