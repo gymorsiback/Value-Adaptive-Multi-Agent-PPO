@@ -1,6 +1,6 @@
-# VAMAPPO: Value-Adaptive Multi-Agent PPO for GenAIaaS Orchestration
+# A Value-Adaptive Multi-Agent PPO for GenAIaaS Orchestration
 
-This repository contains the reference implementation of the VAMAPPO (Value-Adaptive Multi-Agent Proximal Policy Optimization) framework, designed for collaborative Edge AI inference and GenAI-as-a-Service (GenAIaaS) orchestration.
+This repository contains the reference implementation of the Value-Adaptive Multi-Agent Proximal Policy Optimization framework, designed for collaborative Edge AI inference and GenAI-as-a-Service (GenAIaaS) orchestration.
 
 The framework addresses the challenges of stochastic latency spikes and complex microservice dependencies in distributed edge environments by introducing a value-adaptive mechanism and a Coordinated Advantage Function (CAF).
 
@@ -46,17 +46,8 @@ To run the inference evaluation:
 python src/distributed_main.py --mode inference --model_path results/
 ```
 
-## Note on Implementation
-
-This repository provides a prototype implementation focused on demonstrating the software architecture and the interaction flow of the VAMAPPO framework.
-
-Please note the following regarding the comparison with the paper:
-- Environment Simplified: The network topology and latency models in this codebase use simplified geographical distance metrics for demonstration purposes, rather than the graph-based transmission models described in the paper.
-- Logic Abstraction: Specific mathematical formulations (e.g., the exact coefficients for the Coordinated Advantage Function and the specific Sigmoid utility parameters) have been simplified to generic linear forms to facilitate ease of understanding and modification.
-
-Researchers intending to reproduce the exact numerical results reported in the paper should refer to the mathematical models detailed in the System Model and Problem Formulation sections of the manuscript.
-
 ## License
 
 This project is licensed under the MIT License.
+
 
